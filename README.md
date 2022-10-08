@@ -1,41 +1,48 @@
-# The Curriculum Vitae Template
+# Creed S. Alfonso 
 
-You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+I am a driven, focused, and determined individual who is always willing to go the extra
+mile or two to make sure that I'm meeting my goals. I am also very honest, which leads
+me to be a trustworthy person, which allows me to be a great role model for other
+people.
+I have a strong work ethic and love to learn new things every day because of how
+productive it makes me feel. My goal is to grow by learning new skills and becoming
+even more confident in my abilities as well as my ability to help others grow.
+To grow as a leader and a student, I believe that I need to continue working on my
+communication skills so that I can be better to connect with others at work as well as
+with other people outside of school. I also want to continue developing leadership skills
+so that when opportunities present themselves, I'll be ready for them!
+Finally, one of my ambitions is to become part of a team or an industry where we all
+work together towards achieving the same goals — something that's difficult for some
+businesses today but seems so simple when you really think about it!
+## Date of birth
+* October 24, 2002
 
-## What does this project do?
+## Interest
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+* Gaming
+* Reading
+* Skateboarding
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
 
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
+## Skills
+* Ability to work with a diverse group of individuals
+and understand the concerns of each group.
+* Ability to effectively communicate with peers,
+students, and superiors to develop solutions that
+will improve an organization's performance.
+* An effective student that can truly understand
+your problems and come up with ideas to fix
+them.
+## Nationality
+* Filipino
 
-## Motivation
+## Education
+* St. Thomas More Academy 2019-2020
+* St. Dominic College of Asia 2021-2022
 
-GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
-
-The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
-
-## Installation
-
-1. Create a new repo out of this template by clicking [this link](https://github.com/sneas/cv-template/generate).
-1. Clone the newly created repo.
-1. Install project dependencies with `npm install`.
-1. Run `npm run deploy` to initialize `gh-pages`. This is a one time action. Further deployments will be initiated by GitHub Actions on every push to `main`.
-
-## Usage
-
-1. Start local development server with `npm start`.
-1. Update contents of `src` folder to fit your needs. This item is explained [below](#update-contents).
-1. Commit and push your changes.
-1. GitHub Actions will automatically build the latest version and deploy it to GitHub Pages.
-1. Open `http://your-username.github.io/your-cv-repo`.
-
-### Update contents
-
-The project uses [HandlebarsJS](https://github.com/wycats/handlebars.js/) as a template engine.
-
-The main HTML template is located in [src/templates/index.html](src/templates/index.html). Metadata for the template could be found in [src/metadata/metadata.js](src/metadata/metadata.js).
-
-Don't forget to update [src/assets/favicon.ico](src/assets/favicon.ico). You can generate a new favicon out of your photo with [icoconvert.com](http://icoconvert.com/).
+## Contacts
+* Contact Number: 09758584471
+* Address: BLK 2 LT 19, Winchester Street,
+Chesapeake Village, Imus
+Cavite
+* Email: csalfonso24@gmail.com
