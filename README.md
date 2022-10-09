@@ -39,7 +39,7 @@ them.
 ## Education
 * St. Thomas More Academy 2019-2020
 * St. Dominic College of Asia 2021-2022
-  Stran: TVL/HRM
+  Strand: TVL/HRM
 
 ## Contacts
 * Contact Number: 09758584471
